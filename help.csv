@@ -1,0 +1,8 @@
+step;text
+1; Choose the specific group or groups of individuals for whom you would like to investigate treatment status (Active/PIT).
+2; Specify the characteristics of the patients.
+3; Select the diagnosis years for patients you want to analyze using the slider. You can also adjust the selection by dragging the slider to move in intervals.
+4;Specialties: By default all specialties and sub-specialties are selected but you can modify the inclusion: 1) Select sub-specialties with a minimum number of patients. 2) Exclude sub-specialties. 3) Include sub-specialties
+5;Select the route of admission.
+6;For analysing diagnostics choose the test from the dropdown menu in the diagnostics section and define the time to the first test.
+7; All changes in the selection criteria need to be confirmed by the clicking the confirm button.
